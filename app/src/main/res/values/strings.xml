@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ComunicaciónActividades</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="rechazar">Rechazar</string>
+    <string name="labelNombre">Nombre:</string>
+    <string name="verificar">Verificar</string>
+    <string name="resultado">Resultado:</string>
+</resources>
